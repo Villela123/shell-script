@@ -1,6 +1,7 @@
-esc: set number
 #!bin/bash
 clear;
-echo "Hello World"
+echo -n : "Vini: ";
+read nome;
+echo "Hello "$nome;
 exit;
 
